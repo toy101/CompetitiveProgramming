@@ -1,4 +1,4 @@
-# Atcoder Beginner Contest 7 C
+# Atcoder Beginner Contest 153 E
 > 動的計画法の問題
 > [問題ページ](https://atcoder.jp/contests/abc153/tasks/abc153_e)
 ## 解法
